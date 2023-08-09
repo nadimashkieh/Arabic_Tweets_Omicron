@@ -29,4 +29,5 @@ https://github.com/nadimashkieh/Arabic_Tweets_Omicron/blob/Social_media/Vaccine%
 This code is open-access, open-use, licensed under Creative Commons Zero v1.0 Universal:
 https://github.com/nadimashkieh/Arabic_Tweets_Omicron/blob/Social_media/LICENSE
 
+DOI: 10.5281/zenodo.8231307
 
