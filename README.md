@@ -1,5 +1,5 @@
 ## Comparative sentiment analysis of Arabic Tweets pre- and post-Omicron  
-####DOI 10.12688/wellcomeopenres.19736.1
+DOI 10.12688/wellcomeopenres.19736.1
 
 This project utilizes Python3, and Python 3 packages (URL, JSON, NLPK, Camel Tool, etc...) to extract, process and interpret time-bound tweets related to pre and post Omicron sentiment analysis and dialect identification of Arabic tweets. The aim is to compare the results and the sentiments of tweets within the two timeframes.
 
