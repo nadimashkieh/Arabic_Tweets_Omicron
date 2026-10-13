@@ -18,7 +18,7 @@ use url_get to accomplish the following:
 - Convert the requested HTML GET JSON data into two separate csv files to be stored on the       local drive.
 
 #### Part two:
-https://github.com/nadimashkieh/Arabic_Tweets_Omicron/blob/Social_media/Vaccine%20in%20the%20Arab%20World%20(Twitter)-Github%20version.ipynb
+https://github.com/nadimashkieh/Arabic_Tweets_Omicron/edit/main/README.md#:~:text=Vaccine_in_Arabic_Github_version.ipynb
 
 ### Vaccine in the Arab World
 - Import CAMeL Tools libraries for Arabic NLP (CAMeL Tools is suite of Arabic natural language   processing tools developed by the CAMeL Lab at New York University Abu Dhabi).
@@ -26,6 +26,11 @@ https://github.com/nadimashkieh/Arabic_Tweets_Omicron/blob/Social_media/Vaccine%
 - Logic was added to omit certain tweets that contained unidentifiable characters.
 - Apply CAMeL Tools to process the data.
 - Analyze and visualize the data.
+
+#### Part three:
+https://github.com/nadimashkieh/Arabic_Tweets_Omicron/edit/main/README.md#:~:text=Omicron,-%2DTime%2DSeries%2DGithub
+
+-Compute time series for each of the data periods and visualize them 
 
 This code is open-access, open-use, licensed under Creative Commons Zero v1.0 Universal:
 https://github.com/nadimashkieh/Arabic_Tweets_Omicron/blob/Social_media/LICENSE
